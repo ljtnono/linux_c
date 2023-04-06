@@ -1,0 +1,10 @@
+### MACOS ###
+.DS_Store
+
+### idea ###
+.idea
+target
+
+### vscode ###
+.vscode
+
