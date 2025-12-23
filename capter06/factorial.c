@@ -14,5 +14,7 @@ int factorial(int n)
 int main(int argc, char *argv[])
 {
     printf("factorial(%d)=%d\n", 10, factorial(10));
+    char *a[] = {'f', 'f'};
+    printf("fdafd %s", &a);
     return EXIT_SUCCESS;
 }

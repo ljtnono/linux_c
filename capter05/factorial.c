@@ -11,9 +11,7 @@ int factorial(int n) {
     }
 }
 
-
-int main(int argc, char *argv[])
-{
+int main(int argc, char *argv[]) {
     printf("%d!=%d\n", 10, factorial(10));
     return EXIT_SUCCESS;
 }

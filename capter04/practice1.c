@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[])
-{ 
+{
     int x = 100;
     if (x > 0 && x < 10);
     else
